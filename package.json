@@ -19,6 +19,6 @@
     "lodash": "^4.17.19",
     "mongoose": "^5.9.24",
     "react-html-parser": "^2.0.2",
-    "validator": "^13.1.1"
+    "validator": "^13.7.0"
   }
 }
